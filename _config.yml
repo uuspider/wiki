@@ -1,1 +1,5 @@
 baseurl: /
+username: uuspider
+markdown: kramdown
+safe: false
+highlighter: rouge
